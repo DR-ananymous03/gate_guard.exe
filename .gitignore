@@ -1,0 +1,12 @@
+﻿build/
+dist/
+*.lnk
+jetbrains-toolbox*
+python.lnk
+CLion.lnk
+CodeBlocks.lnk
+Excel.lnk
+GitHub Desktop.lnk
+Nmap - Zenmap GUI.lnk
+uTorrent Web.lnk
+Word.lnk
